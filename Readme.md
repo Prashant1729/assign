@@ -21,7 +21,7 @@ This extract criteria API is to extract the criteria from the job description an
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/Prashant1729/assign.git
    cd <repository_folder>
    ```
 2. Install dependencies:
