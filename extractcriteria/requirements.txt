@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-openai
-opnepyxl
-python-docx
-pydantic
-pandas
-pdfplumber
-dotenv
