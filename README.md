@@ -122,7 +122,14 @@ The API documentation is available at:
 http://127.0.0.1:8000/docs
 ```
 
-## License
+## Links to video demo
+# Resume scoring api
 
-This project is licensed under the MIT License.
+```
+https://www.loom.com/share/2578c119968e4314872d4a2d1ba26d44?sid=5ab16af8-83f2-43e2-83f2-64524c15a1be
+```
+# Exract Criteria api
+```
+https://www.loom.com/share/b98924bea0e4436b89995ce5604d7bcb?sid=0d570f2b-8c13-4581-9407-3630634d5c92
+```
 
