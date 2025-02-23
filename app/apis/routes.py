@@ -41,7 +41,7 @@ async def score_resumes(
         except OpenAIProcessingError as e:
             raise HTTPException(status_code=500, detail=str(e))
     
-    columns = ["Candidate Name"] + list(criteria) + ["Total Score"]
+    columns = ["Candidate Name"] + list(scores.keys()) + ["Total Score"]
     df = pd.DataFrame(results, columns=columns)
     
     output_stream = io.BytesIO()
