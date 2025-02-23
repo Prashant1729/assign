@@ -45,7 +45,8 @@ OPENAI_API_KEY = "your_openai_api_key"
 
 Run the FastAPI application using Uvicorn:
 
-```python app.py
+```
+    python main.py
 ```
 
 ## API Endpoints
